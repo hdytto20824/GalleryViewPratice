@@ -23,7 +23,8 @@ public class MainActivity extends Activity {
 	R.drawable.pic4,
 	R.drawable.pic5,
 	R.drawable.pic6,
-	R.drawable.pic7
+	R.drawable.pic7,
+	R.drawable.pic10
 	};
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
